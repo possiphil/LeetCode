@@ -1,4 +1,4 @@
-private class Solution {
+private class Codec {
     func encode(_ strs: [String]) -> String {
         if strs.isEmpty { return "#" }
         
