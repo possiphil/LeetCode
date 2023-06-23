@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/find-pivot-index/submissions/975308599/
+
 private class Solution {
     func pivotIndex(_ nums: [Int]) -> Int {
         var left = 0

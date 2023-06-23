@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/submissions/974054620/
+
 private class Solution {
     func replaceElements(_ arr: [Int]) -> [Int] {
         var ans = [-1]

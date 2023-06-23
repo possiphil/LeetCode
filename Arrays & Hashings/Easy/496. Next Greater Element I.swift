@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/next-greater-element-i/submissions/975294617/
+
 private class Solution {
     func nextGreaterElement(_ nums1: [Int], _ nums2: [Int]) -> [Int] {
         var ans = [Int]()

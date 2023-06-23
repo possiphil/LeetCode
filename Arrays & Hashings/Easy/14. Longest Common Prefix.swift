@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/longest-common-prefix/submissions/962883740/
+
 private class Solution {
     func longestCommonPrefix(_ strs: [String]) -> String {
         var ans = ""

@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/isomorphic-strings/submissions/975300784/
+
 private class Solution {
     func isIsomorphic(_ s: String, _ t: String) -> Bool {
         var replacements = [Character: Character]()

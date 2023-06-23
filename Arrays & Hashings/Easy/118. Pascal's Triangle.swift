@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/pascals-triangle/submissions/975225635/
+
 private class Solution {
     func generate(_ numRows: Int) -> [[Int]] {
         guard numRows > 1 else { return [[1]] }

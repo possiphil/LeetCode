@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/unique-email-addresses/submissions/975231574/
+
 private class Solution {
     func numUniqueEmails(_ emails: [String]) -> Int {
         var uniqueEmails: Set<String> = []
