@@ -1,4 +1,6 @@
-class Solution {
+// https://leetcode.com/problems/valid-sudoku/submissions/960740028/
+
+private class Solution {
     func isValidSudoku(_ board: [[Character]]) -> Bool {
         var rows: [Int: Set<Character>] = [:]
         var columns: [Int: Set<Character>] = [:]

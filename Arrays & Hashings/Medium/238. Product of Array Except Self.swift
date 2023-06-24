@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/product-of-array-except-self/submissions/960707015/
+
 private class Solution {
     func productExceptSelf(_ nums: [Int]) -> [Int] {
         var l = 0

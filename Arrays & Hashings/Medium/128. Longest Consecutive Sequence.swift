@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/longest-consecutive-sequence/submissions/958333036/
+
 private class Solution {
     func longestConsecutive(_ nums: [Int]) -> Int {
         let set = Set(nums)
