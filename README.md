@@ -1,14 +1,14 @@
 # LeetCode
 Swift solutions for LeetCode problems.
 
-Structure:
+    Structure:
 
-📁 - Problem Category
+    📁 - Problem Category
 
-    📁 - Problem Difficulty
+        📁 - Problem Difficulty
 
-        📄 - Problem ("\(Problem Index). \(Problem Name)")
+            📄 - Problem ("\(Problem Index). \(Problem Name)")
 
-            ✏️ - Solution Link
-            
-            ✏️ - Solution
+                ✏️ - Solution Link
+                
+                ✏️ - Solution
