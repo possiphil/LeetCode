@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/generate-parentheses/submissions/962769702/
+
 private class Solution {
     func generateParenthesis(_ n: Int) -> [String] {
         var stack = [String]()
