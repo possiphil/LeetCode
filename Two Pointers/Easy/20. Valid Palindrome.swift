@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/valid-palindrome/submissions/958179107/
+
 private class Solution {
     func isPalindrome(_ s: String) -> Bool {
         var l = s.startIndex
